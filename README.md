@@ -95,7 +95,10 @@ Applications</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(63).pdf" style="text-decoration:none;">Learning Pentesting for Android Devices</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(64).pdf" style="text-decoration:none;">OpenGL ES 2.0 for Android</a></b></li> 
  
- 
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(65).pdf" style="text-decoration:none;">Practical Android Projects</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(66).rar" style="text-decoration:none;">Professional Android 4 Application Development</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(67).pdf" style="text-decoration:none;">Reactive Programming in Kotlin</a></b></li> 
  
  
  
