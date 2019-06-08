@@ -115,6 +115,8 @@ Applications</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(74).pdf" style="text-decoration:none;">Smashing Android UI: Responsive User Interfaces and Design Patterns for Android Phones and Tablets</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(75).pdf" style="text-decoration:none;">Learning Mobile App Development: A Hands-on Guide to Building Apps with iOS and Android</a></b></li>                                                    
                                 
-                                
-                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(76).pdf" style="text-decoration:none;">Kotlin Tutorial</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(77).pdf" style="text-decoration:none;">Kotlin Language Documentation</a></b></li>                      <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(78).pdf" style="text-decoration:none;">Programming Kotlin</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(79).pdf" style="text-decoration:none;">Kotlin in Action</a></b></li>                
+                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(80).pdf" style="text-decoration:none;">Functional Kotlin</a></b></li>                                
 </ul>
