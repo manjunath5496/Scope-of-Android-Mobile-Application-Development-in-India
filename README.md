@@ -100,8 +100,16 @@ Applications</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(66).rar" style="text-decoration:none;">Professional Android 4 Application Development</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(67).pdf" style="text-decoration:none;">Reactive Programming in Kotlin</a></b></li> 
  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(68).pdf" style="text-decoration:none;">Instant Spring for Android Starter</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(69).pdf" style="text-decoration:none;">Android Things Projects</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(70).pdf" style="text-decoration:none;">Android Design Patterns</a></b></li>  
  
- 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(71).pdf" style="text-decoration:none;">Android Development with Kotlin</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(72).pdf" style="text-decoration:none;">GUI Design for Android Apps</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(73).pdf" style="text-decoration:none;">Do Androids Dream of Electric Sheep?</a></b></li>                    
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(74).pdf" style="text-decoration:none;">Smashing Android UI: Responsive User Interfaces and Design Patterns for Android Phones and Tablets</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(75).pdf" style="text-decoration:none;">Learning Mobile App Development: A Hands-on Guide to Building Apps with iOS and Android</a></b></li>                                                    
+                                
                                 
                                 
 </ul>
