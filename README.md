@@ -54,8 +54,46 @@ Introducing Google's Mobile Development Platform, 3rd Edition</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(37).pdf" style="text-decoration:none;"><span style ="color:red">Testing and Securing</span> Android Studio
 Applications</a></b></li>
                                
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(21).pdf" style="text-decoration:none;"><span style ="color:red">Android Apps For Profit:</span> How to Make Money with Apps on the Android Market</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(28).rar" style="text-decoration:none;">Android Forensics: Investigation, Analysis, and Mobile Security for Google Android</a></b></li>  
  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(39).pdf" style="text-decoration:none;">Android Tips and Tricks</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(40).pdf" style="text-decoration:none;">Android Things Quick Start Guide</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(41).pdf" style="text-decoration:none;"><span style ="color:red">Beginning</span> Android C++ Game Development</a></b></li>
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(42).pdf" style="text-decoration:none;">Efficient Android Threading</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(43).pdf" style="text-decoration:none;">Enterprise Android</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(44).pdf" style="text-decoration:none;"><span style ="color:red">Pro Android Flash</span></a></b></li> 
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(45).pdf" style="text-decoration:none;"><span style ="color:red">Pro Android Web Apps</span> Develop for Android Using HTML5, CSS3 & JavaScript</a></b></li>
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(46).pdf" style="text-decoration:none;">Reactive Android Programming</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(47).pdf" style="text-decoration:none;">Android: A Programmer's Guide</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(48).rar" style="text-decoration:none;"><span style ="color:red">Android 6 for Programmers:</span> An App-Driven Approach</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(49).pdf" style="text-decoration:none;">Android Application Development with Maven</a></b></li>
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(50).pdf" style="text-decoration:none;">Android Application Testing Guide</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(51).pdf" style="text-decoration:none;">Android Developer Tools Essentials</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(52).pdf" style="text-decoration:none;">Android Recipes: A Problem-Solution Approach</a></b></li> 
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(53).pdf" style="text-decoration:none;">Android Security Internals: An In-Depth Guide to Android′s Security Architecture</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(54).pdf" style="text-decoration:none;">Pro Android UI</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(55).pdf" style="text-decoration:none;">Android UI Design</a></b></li> 
+ 
+ 
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(56).pdf" style="text-decoration:none;">Android UI Design: Plan, design, and build engaging user interfaces for your Android applications</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(57).pdf" style="text-decoration:none;">Android UI Fundamentals: Develop and Design</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(58).pdf" style="text-decoration:none;">Android Application Secure Design / Secure Coding Guidebook</a></b></li> 
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(59).pdf" style="text-decoration:none;">Android Programming Tutorials</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(60).pdf" style="text-decoration:none;">Android Database Programming</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(61).pdf" style="text-decoration:none;">Google Android on the Beagleboard: Introduction to the Android API, HAL and SDK</a></b></li> 
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(62).pdf" style="text-decoration:none;">Android Design Patterns and Best Practice</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(63).pdf" style="text-decoration:none;">Learning Pentesting for Android Devices</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(64).pdf" style="text-decoration:none;">OpenGL ES 2.0 for Android</a></b></li> 
  
  
  
